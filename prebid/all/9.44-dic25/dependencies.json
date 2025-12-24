@@ -1,0 +1,97 @@
+{
+  "prebid-core.js": [
+    "chunk-core.js",
+    "viewport.js",
+    "greedy.js",
+    "creative-renderer-display.js"
+  ],
+  "adagioAnalyticsAdapter.js": [
+    "gptUtils.js",
+    "adagioUtils.js",
+    "analyticsAdapter.js"
+  ],
+  "adagioBidAdapter.js": [
+    "gptUtils.js",
+    "adagioUtils.js"
+  ],
+  "adagioRtdProvider.js": [
+    "gptUtils.js",
+    "adagioUtils.js",
+    "boundingClientRect.js"
+  ],
+  "admaticBidAdapter.js": [
+    "ortb2Utils.js",
+    "userSyncUtils.js",
+    "precisoUtils.js"
+  ],
+  "connectadBidAdapter.js": [
+    "urlUtils.js"
+  ],
+  "consentManagementGpp.js": [
+    "consentManagement.js",
+    "cmp.js"
+  ],
+  "consentManagementTcf.js": [
+    "chunk-core.js",
+    "consentManagement.js",
+    "cmp.js"
+  ],
+  "currency.js": [
+    "chunk-core.js",
+    "timeoutQueue.js"
+  ],
+  "debugging.js": [
+    "gptUtils.js"
+  ],
+  "gppControl_usnat.js": [
+    "mspa.js"
+  ],
+  "gppControl_usstates.js": [
+    "mspa.js"
+  ],
+  "gptPreAuction.js": [
+    "gptUtils.js"
+  ],
+  "improvedigitalBidAdapter.js": [
+    "chunk-core.js",
+    "ortbConverter.js",
+    "currencyUtils.js"
+  ],
+  "ixBidAdapter.js": [
+    "gptUtils.js"
+  ],
+  "missenaBidAdapter.js": [
+    "ortb2Utils.js",
+    "autoplayDetection.js",
+    "sizeUtils.js"
+  ],
+  "oguryBidAdapter.js": [
+    "chunk-core.js",
+    "ortbConverter.js",
+    "sizeUtils.js"
+  ],
+  "richaudienceBidAdapter.js": [
+    "ortb2Utils.js"
+  ],
+  "rtdModule.js": [
+    "objectGuard.js"
+  ],
+  "rubiconBidAdapter.js": [
+    "chunk-core.js",
+    "ortbConverter.js",
+    "userSyncUtils.js",
+    "pbsExtensions.js",
+    "keywords.js"
+  ],
+  "schain.js": [
+    "chunk-core.js"
+  ],
+  "seedtagBidAdapter.js": [
+    "boundingClientRect.js"
+  ],
+  "teadsBidAdapter.js": [
+    "autoplayDetection.js",
+    "timeToFirstBytesUtils.js",
+    "navigatorData.js"
+  ]
+}

@@ -1,0 +1,1 @@
+(self.pbjsPMChunk=self.pbjsPMChunk||[]).push([[316],{4278:(e,n,t)=>{t.d(n,{G:()=>l});var s=t(7332);const u=new Map;function l(e){let n;return u.has(e)?n=u.get(e):(n=e.getBoundingClientRect(),u.set(e,n)),n}s.gH.before(((e,n)=>{u.clear(),e(n)}))}}]);
